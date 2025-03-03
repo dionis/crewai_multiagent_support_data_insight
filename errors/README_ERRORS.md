@@ -1,6 +1,9 @@
 
 ## Notes
 
+## Images as output generation
+- With using gemini 2.0 flash not create image output, beside in agent or task order declared.
+- 
 ## Human Input
 
 - With Gemini there are a Big Issue because was set human_input the crewai request send the request as example:
